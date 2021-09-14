@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hey, I'm Sidharth. Sid for short 👋
 <!--
 **sidharth-sudhir/sidharth-sudhir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
